@@ -51,7 +51,7 @@ Description = 'Generic Security Cmdlets'
 # ProcessorArchitecture = ''
 
 # Modules that must be imported into the global environment prior to importing this module
-RequiredModules = @('Gmic.Helpers')
+# RequiredModules = @('Gmic.Helpers')
 
 # Assemblies that must be loaded prior to importing this module
 # RequiredAssemblies = @()
